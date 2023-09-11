@@ -1,0 +1,28 @@
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(19, 137, 178);
+  width: 80px;
+  height: 80px;
+  color: black;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.bg-blue-container{
+  background-color: rgb(8, 59, 76);
+  min-height: 100px;
+}
+
+.bg-green{
+  background-color: rgb(12, 214, 161);
+}
+
+.bg-yellow{
+  background-color: rgb(255, 209, 102);
+}
+
+.bg-red{
+  background-color:rgb(240, 70, 111);
+}
