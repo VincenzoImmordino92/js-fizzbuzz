@@ -1,3 +1,7 @@
+body{
+  background-color: rgb(8, 59, 76);
+}
+
 .box{
   display: flex;
   justify-content: center;
@@ -26,3 +30,4 @@
 .bg-red{
   background-color:rgb(240, 70, 111);
 }
+
